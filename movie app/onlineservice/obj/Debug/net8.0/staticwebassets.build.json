@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "psqnu9geXYepD/4yDwf4Of+TtrSf6rRmojBTFUvdZgY=",
+  "Source": "onlineservice",
+  "BasePath": "_content/onlineservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
